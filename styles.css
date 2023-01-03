@@ -1,0 +1,87 @@
+#img-div, #header, #header-p  {
+    text-align:center;
+}
+
+header {
+    font-size:50px;
+    font-weight: bold;
+    padding-top:50px;
+    font-family: sans-serif;
+}
+
+* {
+    background-color: aquamarine;
+}
+
+img {
+    display: block;
+}
+
+#image {
+    max-width:100%;
+    height:auto;
+    justify-content: center;
+    margin:auto;
+
+}
+
+#img-div, #img-caption{
+    padding-top:60px;
+    background-color:gray;
+    padding-bottom: 30px;
+    color:aliceblue;
+    margin-bottom:0px;
+}
+
+
+
+#img-caption {
+    padding-bottom:20px;
+    font-weight: bold;
+    font-size:22px;
+    margin-bottom: 70px;
+    text-align: center;
+}
+
+#tribute-info, #last-word {
+    text-align: center;
+    font-weight: bold;
+    font-size:250%;
+    color:black;
+}
+
+
+
+
+#history{
+    color:black;
+    
+    margin-left: 10%;
+}
+
+
+#year {
+    font-weight:bold;
+    font-size:20px;
+    
+}
+
+
+#last-word {
+    font-size:120%;
+    font-style: italic;
+    font-weight: 100;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    text-align: center;
+}
+li {
+    padding-bottom:15px;
+    margin-left: 20%;
+    
+}
+
+
+#last-sentence {
+ text-align: center;
+}
